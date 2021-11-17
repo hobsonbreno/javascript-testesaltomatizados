@@ -10,4 +10,5 @@ class Pessoa {
     return this.idade;
   }
 }
+
 module.exports = Pessoa;
